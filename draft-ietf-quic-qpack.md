@@ -62,7 +62,7 @@ normative:
         role: editor
 
 
---- abstract
+
 
 This specification defines QPACK, a compression format for efficiently
 representing HTTP header fields, to be used in HTTP/3. This is a variation of
